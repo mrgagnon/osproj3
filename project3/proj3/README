@@ -1,0 +1,20 @@
+Maylee Gagnon
+
+Part one should work and I started part two and created the NBSendMsg() method
+
+make 
+./mailbox 3 < <test>.txt
+or 
+./mailbox 3 
+1 1
+2 2
+2 2
+EOF 
+
+Input values of non numbers, negative for the first number, or values outside of 1 to number of threads, and blank lines require new input 
+
+
+
+
+
+
